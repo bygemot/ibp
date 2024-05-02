@@ -1,0 +1,27 @@
+img {
+box-shadow: 6px 3px 6px #666;
+-moz-box-shadow: 6px 3px 6px #666;	
+-webkit-box-shadow: 6px 3px 6px #666;	
+box-shadow: 6px 3px 6px #666;	
+}
+
+h1 {
+	text-shadow: 4px 4px 4px rgba(0,0,0,1);
+}
+
+li {
+	box-shadow: 6px 3px 6px #666;	
+-moz-box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+-webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+-o-box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+}
+
+li:hover {
+	box-shadow: 6px 3px 6px #666;	
+-moz-box-shadow: 4px 4px 4px rgba(0,0,0,0.9);
+-webkit-box-shadow: 4px 4px 4px rgba(0,0,0,0.9);
+-o-box-shadow: 4px 4px 4px rgba(0,0,0,0.9);
+
+}
+
+
